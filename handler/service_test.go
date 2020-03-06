@@ -2,7 +2,7 @@ package handler_test
 
 import (
 	"net/http"
-	"strsvc/handler"
+	"goexample/handler"
 	"testing"
 
 	"github.com/appleboy/gofight"

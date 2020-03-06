@@ -1,10 +1,10 @@
 FROM alpine:3.2
 
-MAINTAINER xiansan Luo<xiansan.luo@liulishuo.com>
+MAINTAINER xiansan Luo<xiansan.luo@gmail.com>
 
 LABEL name="strsvc" \
       description="example for service" \
-      owner="xiansan.luo@liulishuo.com"
+      owner="xiansan.luo@gmail.com"
 
 COPY ./server /server
 
